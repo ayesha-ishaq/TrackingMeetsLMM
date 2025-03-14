@@ -25,7 +25,7 @@ Tracks for objects and the ego-vehicle are generated using [3DMOTFormer](https:/
 ![Results Table 2](https://github.com/ayesha-ishaq/TrackingMeetsLMM/blob/main/assets/results_c.JPG)
 
 ## Setup and Fine-tuning
-Refer to the setup and fine-tuning instructions available in `docs/setup_finetune.md` within this repository.
+Refer to the setup and fine-tuning instructions available in `[llama_adapter_v2_multimodal7b/README.md]` within this repository.
 
 ## Inference
 Run the following command to perform inference on test data:
